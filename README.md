@@ -31,7 +31,7 @@ Este proyecto contiene un dashboard interactivo desarrollado en Power BI, enfoca
 
 ## 📸 Vista previa del dashboard
 
-![Vista previa del reporte](Dashboard RRHH.png) <!-- Puedes subir una captura del dashboard -->
+[Vista previa del reporte](Dashboard RRHH.png)
 
 ---
 
@@ -39,5 +39,5 @@ Este proyecto contiene un dashboard interactivo desarrollado en Power BI, enfoca
 
 Si estás interesado en mi trabajo o deseas saber más:
 - ✉️ [leohormazabal18@gmail.com](mailto:leohormazabal18@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/leonardo-hormazábal-osorio-b68904178)
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-hormazabal-osorio-b68904178)
 
