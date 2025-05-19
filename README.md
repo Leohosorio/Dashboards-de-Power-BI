@@ -31,7 +31,7 @@ Este proyecto contiene un dashboard interactivo desarrollado en Power BI, enfoca
 
 ## 📸 Vista previa del dashboard
 
-![Vista previa del reporte](Dashboard RRHH.png)
+![Vista previa del reporte](Dashboard%20RRHH.png)
 
 ---
 
