@@ -1,6 +1,6 @@
 # 📊 Reporte Power BI: [DASHBOARD RRHH]
 
-Este proyecto contiene un dashboard interactivo desarrollado en Power BI, enfocado en el análisis de una plantilla empleados típica para una organización.
+Este proyecto contiene un dashboard interactivo desarrollado en Power BI, enfocado en el análisis de una plantilla de empleados típica para una organización.
 
 🔗 **Ver el dashboard en línea**:  
 👉 [Haz clic aquí para abrir el reporte en Power BI](https://app.powerbi.com/view?r=eyJrIjoiZGU3MjdmM2YtOTM0YS00ODdjLThhNDYtMzEyZTJhYzAxMjcwIiwidCI6ImZhYWIyZWQzLTBkYjYtNGU1NS05N2YyLWU5NTZhNzQ5NTU4NyIsImMiOjR9)
@@ -10,12 +10,12 @@ Este proyecto contiene un dashboard interactivo desarrollado en Power BI, enfoca
 ## 📌 Descripción del Proyecto
 
 - **Herramientas utilizadas**: Power BI, DAX, Power Query  
-- **Objetivo**: [ej. Analizar ventas mensuales y rendimiento por región]  
-- **Datos**: [indica si fueron simulados, reales, u obtenidos de fuentes públicas]  
+- **Objetivo**: [Elaborar un análisis enfocado en la composición de una plantilla de empleados en distintos periodos, tomando como referencia la evolución anual, posición, grupo de edad y sexo. ]  
+- **Datos**: [Los datos incorporados no se obtienen a partir de una compañía en específico, solo se utilizan a fin de representar un esquema sujeto al análisis deseado]  
 - **Principales visualizaciones**:  
-  - Gráfico de evolución temporal
+  - Gráfico de evolución temporal y variación acumulada
   - Segmentación por categorías
-  - Métricas clave
+  - Analisis etario, por sexo y posición laboral
 
 ---
 
